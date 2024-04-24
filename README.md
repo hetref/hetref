@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=hetref&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-🔭 I’m currently working on my skills.<br>🌱 I’m currently learning WEB3.0 (Solidity/Blockchain).<br>💬 I am open to any web development-related questions.
+🔭 I’m currently working on my skills.<br>🌱 I’m presently learning GraphQL.<br>💬 I am open to any web development-related questions.
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/coder_aryu_28) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shindearyan) [![Twitter](https://img.shields.io/badge/Twitter-%23E4405F.svg?logo=Twitter&logoColor=white)](https://twitter.com/aryudev) [![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=Telegram&logoColor=white)](https://t.me/aryushinde)
